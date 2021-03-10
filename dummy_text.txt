@@ -1,0 +1,10 @@
+nclude command line tools, web services, DevOps tooling, embedded devices, 
+audioand video analysis and transcoding, cryptocurrencies, bioinformatics, 
+search engines,Internet of Things applications, machine learning, and even major 
+parts of the Firefox webbrowser.Open Source DevelopersRust is for people who want to 
+build the Rust programming language, community, developertools, and libraries. 
+We’d love to have you contribute to the Rust language.People Who Value Speed and Stability
+Rust is for people who crave speed 
+and stability in a language. 
+By speed,we mean the speedof the programs that you can create with Rust and 
+the speed at which Rust lets you writethem. The Rust compiler’s checks ensure stability through feature additions 
